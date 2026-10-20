@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "متابعة الراتب",
+    "slug": "salary-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": { "package": "com.salarytracker.app" }
+  }
+}
